@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ma0vO0BbkyvijbDB1QziZf36ONDg0Hyx
 """
 
-import streamlit as st
-import pandas as pd
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 
 st.set_page_config(page_title="Stock Price Prediction", layout="centered")
 

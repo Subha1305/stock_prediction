@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ma0vO0BbkyvijbDB1QziZf36ONDg0Hyx
 """
 
-
-
-pip install streamlit yfinance pandas scikit-learn
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
